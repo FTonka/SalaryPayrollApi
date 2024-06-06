@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fetta\\Desktop\\CodePulse\\API\\SalaryPayrollApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB71F16-1570-4F4B-8EA0-9F9B12B23C53}|SalaryPayrollApi.Services\\SalaryPayrollApi.Services.csproj|c:\\users\\fetta\\desktop\\codepulse\\api\\salarypayrollapi\\salarypayrollapi.services\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBB71F16-1570-4F4B-8EA0-9F9B12B23C53}|SalaryPayrollApi.Services\\SalaryPayrollApi.Services.csproj|solutionrelative:salarypayrollapi.services\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBB71F16-1570-4F4B-8EA0-9F9B12B23C53}|SalaryPayrollApi.Services\\SalaryPayrollApi.Services.csproj|c:\\users\\fetta\\desktop\\codepulse\\api\\salarypayrollapi\\salarypayrollapi.services\\salarypayrollapi.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBB71F16-1570-4F4B-8EA0-9F9B12B23C53}|SalaryPayrollApi.Services\\SalaryPayrollApi.Services.csproj|solutionrelative:salarypayrollapi.services\\salarypayrollapi.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 318,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\fetta\\Desktop\\CodePulse\\API\\SalaryPayrollApi\\SalaryPayrollApi.Services\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "SalaryPayrollApi.Services\\Service\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\fetta\\Desktop\\CodePulse\\API\\SalaryPayrollApi\\SalaryPayrollApi.Services\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "SalaryPayrollApi.Services\\Service\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T10:34:10.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalaryPayrollApi.Services",
+              "DocumentMoniker": "C:\\Users\\fetta\\Desktop\\CodePulse\\API\\SalaryPayrollApi\\SalaryPayrollApi.Services\\SalaryPayrollApi.Services.csproj",
+              "RelativeDocumentMoniker": "SalaryPayrollApi.Services\\SalaryPayrollApi.Services.csproj",
+              "ToolTip": "C:\\Users\\fetta\\Desktop\\CodePulse\\API\\SalaryPayrollApi\\SalaryPayrollApi.Services\\SalaryPayrollApi.Services.csproj",
+              "RelativeToolTip": "SalaryPayrollApi.Services\\SalaryPayrollApi.Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T10:34:08.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 110,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
